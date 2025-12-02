@@ -1,0 +1,8 @@
+{
+  "name": "mcp-photo-location",
+  "version": "1.0.0",
+  "description": "사진 파일에서 GPS 위치 정보를 추출하는 MCP 서버",
+  "entrypoint": "server.py",
+  "transport": "sse"
+}
+
